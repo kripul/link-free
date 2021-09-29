@@ -9,7 +9,7 @@ rounded: '16'
 colors:
   DEFAULT: '#FAFAFA'
   highlight: '#FCFFA6'
-  accent: '#FFFFFF'
+  accent: '#262626'
   background: '#A9E4D7'
 tracking:
   which: none
