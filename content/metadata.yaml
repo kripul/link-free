@@ -8,7 +8,7 @@ favicon: favicon.png
 rounded: '16'
 colors:
   DEFAULT: '#FAFAFA'
-  highlight: '#4B3869'
+  highlight: '#FCFFA6'
   accent: '#FFFFFF'
   background: '#A9E4D7'
 tracking:
